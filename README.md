@@ -1,10 +1,9 @@
--    eu sou douglas
-- 👀 eu estou interesado em aprender
--    atualmente estou aprendendo P5.js e scratch
-- 💞️ procuro colaborar meu gmall e douglas.silva26@escola.pr.gov.br
-- 📫 
+-  eu sou douglas
+-  eu estou interesado em aprender tecnologia
+-  atualmente estou aprendendo P5.js e scratch
+-  sou estudante do ensino medio
+-  como chegar ate mim meu gmall e douglas.silva26@escola.pr.gov.br
 
-<!---
-mcsquizzydoug/mcsquizzydoug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
